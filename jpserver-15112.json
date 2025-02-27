@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 15112,
+  "port": 8888,
+  "root_dir": "C:\\Users\\Aayush Maan",
+  "secure": false,
+  "sock": "",
+  "token": "353a7be069a009ee32b88107c0e11f868062be34c7fb1a60",
+  "url": "http://localhost:8888/",
+  "version": "2.15.0"
+}
